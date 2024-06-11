@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="assets/python.png">
+    <img width="100" src="assets/python.jpg">
 </p>
 
 # Projeto artigo técnico gerado por I.A.s
